@@ -26,7 +26,7 @@ namespace Arac_Kiralama_Otomasyonu
             this.Hide();
         }
 
-        SqlConnection baglanti = new SqlConnection("Data Source=DESKTOP-SVJ939G;Initial Catalog=arac_kiralama;Integrated Security=True");
+        SqlConnection baglanti = new SqlConnection("Data Source=DESKTOP-GVRME3L\\SQLEXPRESS;Initial Catalog=arac_kiralama;Integrated Security=True");
 
         private void Calisanlar_Load(object sender, EventArgs e)
         {

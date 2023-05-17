@@ -17,7 +17,7 @@ namespace Arac_Kiralama_Otomasyonu
         {
             InitializeComponent();
         }
-        SqlConnection baglanti = new SqlConnection("Data Source=DESKTOP-SVJ939G;Initial Catalog=arac_kiralama;Integrated Security=True");
+        SqlConnection baglanti = new SqlConnection("Data Source=DESKTOP-GVRME3L\\SQLEXPRESS;Initial Catalog=arac_kiralama;Integrated Security=True");
         private void KullaniciYetkilendirme_Load(object sender, EventArgs e)
         {
             string cumle = "select tblCalisan.calisan_no,tblCalisan.tc,tblCalisan.isim,tblCalisan.soyisim,tblKullanici.kullaniciadi,tblKullanici.sifre,tblKullanici.yetki from tblCalisan FULL OUTER JOIN tblKullanici on tblCalisan.calisan_no=tblKullanici.calisan_no";

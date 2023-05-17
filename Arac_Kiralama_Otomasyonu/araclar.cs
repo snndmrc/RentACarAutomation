@@ -16,7 +16,7 @@ namespace Arac_Kiralama_Otomasyonu
     public partial class araclar : Form
     {
         YetkiCekme ytk = new YetkiCekme();
-        SqlConnection baglanti = new SqlConnection(@"Data Source=DESKTOP-SVJ939G;Initial Catalog=arac_kiralama;Integrated Security=True");
+        SqlConnection baglanti = new SqlConnection(@"Data Source=DESKTOP-GVRME3L\SQLEXPRESS;Initial Catalog=arac_kiralama;Integrated Security=True");
         public araclar()
         {
             InitializeComponent();

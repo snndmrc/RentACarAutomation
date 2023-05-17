@@ -23,7 +23,7 @@ namespace Arac_Kiralama_Otomasyonu
         }
         private void btnGiris_Click(object sender, EventArgs e)
         {
-            SqlConnection con = new SqlConnection("Data Source=DESKTOP-SVJ939G;Initial Catalog=arac_kiralama;Integrated Security=True");
+            SqlConnection con = new SqlConnection("Data Source=DESKTOP-GVRME3L\\SQLEXPRESS;Initial Catalog=arac_kiralama;Integrated Security=True");
 
             if (con.State == ConnectionState.Closed)
             {

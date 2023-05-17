@@ -145,7 +145,7 @@
             this.button5.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button5.ImageKey = "Kullancı yetkiledndirme.jpg";
             this.button5.ImageList = this.ımageList1;
-            this.button5.Location = new System.Drawing.Point(619, 63);
+            this.button5.Location = new System.Drawing.Point(619, 64);
             this.button5.Margin = new System.Windows.Forms.Padding(2);
             this.button5.Name = "button5";
             this.button5.RightToLeft = System.Windows.Forms.RightToLeft.No;

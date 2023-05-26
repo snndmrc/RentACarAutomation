@@ -415,6 +415,7 @@
             // 
             // muayene
             // 
+            this.muayene.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.muayene.Location = new System.Drawing.Point(160, 390);
             this.muayene.Margin = new System.Windows.Forms.Padding(2);
             this.muayene.Name = "muayene";

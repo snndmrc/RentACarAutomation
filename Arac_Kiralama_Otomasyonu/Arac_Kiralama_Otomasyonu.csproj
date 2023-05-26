@@ -88,6 +88,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>arac_kiralamaDataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="arac_kiralamaDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>arac_kiralamaDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="DataClasses1.designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -219,6 +224,7 @@
     <None Include="arac_kiralamaDataSet.xsd">
       <Generator>MSDataSetGenerator</Generator>
       <SubType>Designer</SubType>
+      <LastGenOutput>arac_kiralamaDataSet1.Designer.cs</LastGenOutput>
     </None>
     <None Include="arac_kiralamaDataSet.xss">
       <DependentUpon>arac_kiralamaDataSet.xsd</DependentUpon>

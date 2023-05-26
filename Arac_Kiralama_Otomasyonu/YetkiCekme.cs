@@ -42,7 +42,7 @@ namespace Arac_Kiralama_Otomasyonu
             }
             else
             {
-                yetki = "Şeyhmuz hoca yanlış yazar diye";
+                yetki = "XXX";
             }            
             re.Close();
             return yetki;

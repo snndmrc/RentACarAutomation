@@ -49,7 +49,7 @@ namespace Arac_Kiralama_Otomasyonu
                         pdfDoc.Add(pdfTablosu);
                         pdfDoc.Close();
                         stream.Close();
-                        MessageBox.Show("PDF dosyası başarıyla oluşturuldu!\n" + "Dosya Konumu: " + dosyakaydet.FileName, "İşlem Tamam");
+                        MessageBox.Show("PDF dosyası başarıyla oluşturuldu!\n" + "Dosya Konumu: " + dosyakaydet.FileName, "İşlem Tamamlandı");
                     }
                 }
             }

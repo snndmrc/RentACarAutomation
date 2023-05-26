@@ -117,5 +117,10 @@ namespace Arac_Kiralama_Otomasyonu
         {
 
         }
+
+        private void telefon_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

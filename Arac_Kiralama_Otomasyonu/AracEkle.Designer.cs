@@ -275,6 +275,7 @@
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.Controls.Add(this.muayene);
             this.Controls.Add(this.deneme);
             this.Controls.Add(this.goster);
@@ -306,6 +307,7 @@
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.Name = "AracEkle";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.AracEkle_FormClosed);
             this.Load += new System.EventHandler(this.AracEkle_Load);

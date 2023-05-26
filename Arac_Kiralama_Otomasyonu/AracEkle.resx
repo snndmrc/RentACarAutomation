@@ -123,13 +123,13 @@
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>79, 244</value>
+    <value>68, 195</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>39, 15</value>
+    <value>33, 12</value>
   </data>
   <data name="label1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -153,13 +153,13 @@
     <value>True</value>
   </data>
   <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>75, 76</value>
+    <value>64, 61</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>42, 15</value>
+    <value>36, 12</value>
   </data>
   <data name="label2.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -183,13 +183,13 @@
     <value>True</value>
   </data>
   <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>44, 139</value>
+    <value>38, 111</value>
   </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>71, 15</value>
+    <value>64, 12</value>
   </data>
   <data name="label3.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -213,13 +213,13 @@
     <value>True</value>
   </data>
   <data name="label4.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>56, 284</value>
+    <value>48, 227</value>
   </data>
   <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>61, 15</value>
+    <value>55, 12</value>
   </data>
   <data name="label4.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -243,13 +243,13 @@
     <value>True</value>
   </data>
   <data name="label5.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>75, 45</value>
+    <value>64, 36</value>
   </data>
   <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>42, 15</value>
+    <value>37, 12</value>
   </data>
   <data name="label5.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -273,13 +273,13 @@
     <value>True</value>
   </data>
   <data name="label6.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>56, 325</value>
+    <value>48, 260</value>
   </data>
   <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>61, 15</value>
+    <value>57, 12</value>
   </data>
   <data name="label6.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -303,13 +303,13 @@
     <value>True</value>
   </data>
   <data name="label7.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>79, 9</value>
+    <value>68, 7</value>
   </data>
   <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>38, 15</value>
+    <value>33, 12</value>
   </data>
   <data name="label7.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -333,13 +333,13 @@
     <value>True</value>
   </data>
   <data name="label8.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="label8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>42, 169</value>
+    <value>36, 135</value>
   </data>
   <data name="label8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>78, 15</value>
+    <value>70, 12</value>
   </data>
   <data name="label8.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -363,13 +363,13 @@
     <value>True</value>
   </data>
   <data name="label9.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="label9.Location" type="System.Drawing.Point, System.Drawing">
-    <value>87, 451</value>
+    <value>75, 361</value>
   </data>
   <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
-    <value>31, 15</value>
+    <value>27, 12</value>
   </data>
   <data name="label9.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -393,13 +393,13 @@
     <value>True</value>
   </data>
   <data name="label10.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="label10.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 200</value>
+    <value>70, 160</value>
   </data>
   <data name="label10.Size" type="System.Drawing.Size, System.Drawing">
-    <value>36, 15</value>
+    <value>31, 12</value>
   </data>
   <data name="label10.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -423,13 +423,13 @@
     <value>True</value>
   </data>
   <data name="label11.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="label11.Location" type="System.Drawing.Point, System.Drawing">
-    <value>52, 106</value>
+    <value>45, 85</value>
   </data>
   <data name="label11.Size" type="System.Drawing.Size, System.Drawing">
-    <value>65, 15</value>
+    <value>58, 12</value>
   </data>
   <data name="label11.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -453,13 +453,13 @@
     <value>True</value>
   </data>
   <data name="label12.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="label12.Location" type="System.Drawing.Point, System.Drawing">
-    <value>30, 410</value>
+    <value>26, 328</value>
   </data>
   <data name="label12.Size" type="System.Drawing.Size, System.Drawing">
-    <value>88, 15</value>
+    <value>82, 12</value>
   </data>
   <data name="label12.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -483,13 +483,13 @@
     <value>True</value>
   </data>
   <data name="label13.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="label13.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 362</value>
+    <value>3, 290</value>
   </data>
   <data name="label13.Size" type="System.Drawing.Size, System.Drawing">
-    <value>115, 15</value>
+    <value>105, 12</value>
   </data>
   <data name="label13.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -513,13 +513,13 @@
     <value>True</value>
   </data>
   <data name="label14.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="label14.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 490</value>
+    <value>70, 392</value>
   </data>
   <data name="label14.Size" type="System.Drawing.Size, System.Drawing">
-    <value>36, 15</value>
+    <value>33, 12</value>
   </data>
   <data name="label14.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -540,20 +540,16 @@
     <value>24</value>
   </data>
   <data name="plaka.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="plaka.Location" type="System.Drawing.Point, System.Drawing">
-    <value>139, 9</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="plaka.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
+    <value>119, 7</value>
   </data>
   <data name="plaka.MaxLength" type="System.Int32, mscorlib">
     <value>9</value>
   </data>
   <data name="plaka.Size" type="System.Drawing.Size, System.Drawing">
-    <value>175, 21</value>
+    <value>151, 18</value>
   </data>
   <data name="plaka.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -571,16 +567,13 @@
     <value>16</value>
   </data>
   <data name="ruhsat.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="ruhsat.Location" type="System.Drawing.Point, System.Drawing">
-    <value>139, 106</value>
-  </data>
-  <data name="ruhsat.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
+    <value>119, 85</value>
   </data>
   <data name="ruhsat.Size" type="System.Drawing.Size, System.Drawing">
-    <value>175, 21</value>
+    <value>151, 18</value>
   </data>
   <data name="ruhsat.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -598,19 +591,16 @@
     <value>15</value>
   </data>
   <data name="marka.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="marka.Location" type="System.Drawing.Point, System.Drawing">
-    <value>139, 41</value>
-  </data>
-  <data name="marka.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
+    <value>119, 33</value>
   </data>
   <data name="marka.MaxLength" type="System.Int32, mscorlib">
     <value>15</value>
   </data>
   <data name="marka.Size" type="System.Drawing.Size, System.Drawing">
-    <value>175, 21</value>
+    <value>151, 18</value>
   </data>
   <data name="marka.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -628,16 +618,13 @@
     <value>12</value>
   </data>
   <data name="motorguc.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="motorguc.Location" type="System.Drawing.Point, System.Drawing">
-    <value>139, 139</value>
-  </data>
-  <data name="motorguc.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
+    <value>119, 111</value>
   </data>
   <data name="motorguc.Size" type="System.Drawing.Size, System.Drawing">
-    <value>175, 21</value>
+    <value>151, 18</value>
   </data>
   <data name="motorguc.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -655,19 +642,16 @@
     <value>11</value>
   </data>
   <data name="model.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="model.Location" type="System.Drawing.Point, System.Drawing">
-    <value>139, 76</value>
-  </data>
-  <data name="model.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
+    <value>119, 61</value>
   </data>
   <data name="model.MaxLength" type="System.Int32, mscorlib">
     <value>15</value>
   </data>
   <data name="model.Size" type="System.Drawing.Size, System.Drawing">
-    <value>175, 21</value>
+    <value>151, 18</value>
   </data>
   <data name="model.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -685,16 +669,13 @@
     <value>10</value>
   </data>
   <data name="motorhacim.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="motorhacim.Location" type="System.Drawing.Point, System.Drawing">
-    <value>139, 169</value>
-  </data>
-  <data name="motorhacim.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
+    <value>119, 135</value>
   </data>
   <data name="motorhacim.Size" type="System.Drawing.Size, System.Drawing">
-    <value>175, 21</value>
+    <value>151, 18</value>
   </data>
   <data name="motorhacim.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -712,19 +693,16 @@
     <value>9</value>
   </data>
   <data name="renk.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="renk.Location" type="System.Drawing.Point, System.Drawing">
-    <value>139, 200</value>
-  </data>
-  <data name="renk.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
+    <value>119, 160</value>
   </data>
   <data name="renk.MaxLength" type="System.Int32, mscorlib">
     <value>20</value>
   </data>
   <data name="renk.Size" type="System.Drawing.Size, System.Drawing">
-    <value>175, 21</value>
+    <value>151, 18</value>
   </data>
   <data name="renk.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -745,13 +723,14 @@
     <value>True</value>
   </data>
   <data name="klimavar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>8, 16</value>
+    <value>7, 13</value>
   </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="klimavar.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
   </data>
   <data name="klimavar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 19</value>
+    <value>41, 16</value>
   </data>
   <data name="klimavar.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -775,13 +754,13 @@
     <value>True</value>
   </data>
   <data name="klimayok.Location" type="System.Drawing.Point, System.Drawing">
-    <value>91, 16</value>
+    <value>78, 13</value>
   </data>
   <data name="klimayok.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
   </data>
   <data name="klimayok.Size" type="System.Drawing.Size, System.Drawing">
-    <value>48, 19</value>
+    <value>41, 16</value>
   </data>
   <data name="klimayok.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -802,10 +781,10 @@
     <value>0</value>
   </data>
   <data name="groupBox1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>139, 226</value>
+    <value>119, 181</value>
   </data>
   <data name="groupBox1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
@@ -814,7 +793,7 @@
     <value>2, 2, 2, 2</value>
   </data>
   <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>166, 46</value>
+    <value>142, 37</value>
   </data>
   <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -832,7 +811,7 @@
     <value>7</value>
   </data>
   <data name="yakit.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="yakit.Items" xml:space="preserve">
     <value>LPG</value>
@@ -844,13 +823,13 @@
     <value>BENZIN</value>
   </data>
   <data name="yakit.Location" type="System.Drawing.Point, System.Drawing">
-    <value>139, 284</value>
+    <value>119, 227</value>
   </data>
   <data name="yakit.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
   </data>
   <data name="yakit.Size" type="System.Drawing.Size, System.Drawing">
-    <value>175, 23</value>
+    <value>151, 20</value>
   </data>
   <data name="yakit.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -868,7 +847,7 @@
     <value>6</value>
   </data>
   <data name="vites.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="vites.Items" xml:space="preserve">
     <value>OTOMATIK</value>
@@ -877,13 +856,13 @@
     <value>MANUEL</value>
   </data>
   <data name="vites.Location" type="System.Drawing.Point, System.Drawing">
-    <value>139, 321</value>
+    <value>119, 257</value>
   </data>
   <data name="vites.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
   </data>
   <data name="vites.Size" type="System.Drawing.Size, System.Drawing">
-    <value>175, 23</value>
+    <value>151, 20</value>
   </data>
   <data name="vites.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -903,14 +882,17 @@
   <data name="sigortayok.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="sigortayok.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
+  </data>
   <data name="sigortayok.Location" type="System.Drawing.Point, System.Drawing">
-    <value>87, 18</value>
+    <value>75, 14</value>
   </data>
   <data name="sigortayok.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
   </data>
   <data name="sigortayok.Size" type="System.Drawing.Size, System.Drawing">
-    <value>48, 19</value>
+    <value>47, 17</value>
   </data>
   <data name="sigortayok.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -933,14 +915,17 @@
   <data name="sigortavar.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="sigortavar.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
+  </data>
   <data name="sigortavar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>8, 16</value>
+    <value>7, 13</value>
   </data>
   <data name="sigortavar.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
   </data>
   <data name="sigortavar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>46, 19</value>
+    <value>44, 17</value>
   </data>
   <data name="sigortavar.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -961,10 +946,10 @@
     <value>1</value>
   </data>
   <data name="groupBox2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>139, 394</value>
+    <value>119, 315</value>
   </data>
   <data name="groupBox2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
@@ -973,7 +958,7 @@
     <value>2, 2, 2, 2</value>
   </data>
   <data name="groupBox2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>166, 48</value>
+    <value>142, 38</value>
   </data>
   <data name="groupBox2.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -991,16 +976,13 @@
     <value>4</value>
   </data>
   <data name="tork.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="tork.Location" type="System.Drawing.Point, System.Drawing">
-    <value>139, 451</value>
-  </data>
-  <data name="tork.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
+    <value>119, 361</value>
   </data>
   <data name="tork.Size" type="System.Drawing.Size, System.Drawing">
-    <value>175, 21</value>
+    <value>151, 18</value>
   </data>
   <data name="tork.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -1018,16 +1000,13 @@
     <value>14</value>
   </data>
   <data name="ucret.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
   </data>
   <data name="ucret.Location" type="System.Drawing.Point, System.Drawing">
-    <value>139, 486</value>
-  </data>
-  <data name="ucret.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
+    <value>119, 389</value>
   </data>
   <data name="ucret.Size" type="System.Drawing.Size, System.Drawing">
-    <value>175, 21</value>
+    <value>151, 18</value>
   </data>
   <data name="ucret.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -1045,16 +1024,19 @@
     <value>13</value>
   </data>
   <data name="button1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 7pt</value>
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
+  </data>
+  <data name="button1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>139, 522</value>
+    <value>154, 424</value>
   </data>
   <data name="button1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
   </data>
   <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>175, 28</value>
+    <value>84, 28</value>
   </data>
   <data name="button1.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -1078,10 +1060,10 @@
     <value>True</value>
   </data>
   <data name="goster.Location" type="System.Drawing.Point, System.Drawing">
-    <value>321, 362</value>
+    <value>275, 290</value>
   </data>
   <data name="goster.Size" type="System.Drawing.Size, System.Drawing">
-    <value>0, 15</value>
+    <value>0, 13</value>
   </data>
   <data name="goster.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -1101,11 +1083,14 @@
   <data name="deneme.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="deneme.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 6.75pt, style=Bold</value>
+  </data>
   <data name="deneme.Location" type="System.Drawing.Point, System.Drawing">
-    <value>324, 169</value>
+    <value>278, 135</value>
   </data>
   <data name="deneme.Size" type="System.Drawing.Size, System.Drawing">
-    <value>0, 15</value>
+    <value>0, 12</value>
   </data>
   <data name="deneme.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -1123,10 +1108,13 @@
     <value>1</value>
   </data>
   <data name="muayene.Location" type="System.Drawing.Point, System.Drawing">
-    <value>139, 357</value>
+    <value>119, 286</value>
+  </data>
+  <data name="muayene.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
   </data>
   <data name="muayene.Size" type="System.Drawing.Size, System.Drawing">
-    <value>200, 21</value>
+    <value>172, 18</value>
   </data>
   <data name="muayene.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -1146,20 +1134,23 @@
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>28</value>
+  </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>7, 15</value>
+    <value>6, 12</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>367, 594</value>
+    <value>315, 475</value>
   </data>
   <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 7pt</value>
   </data>
   <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 5, 3, 5</value>
+    <value>3, 4, 3, 4</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </value>
+    <value>Araç Ekleme</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>AracEkle</value>

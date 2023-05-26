@@ -68,9 +68,9 @@
             // 
             // button1
             // 
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.button1.Location = new System.Drawing.Point(160, 559);
-            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(158, 26);
             this.button1.TabIndex = 40;
@@ -82,11 +82,11 @@
             // 
             this.groupBox2.Controls.Add(this.sigortayok);
             this.groupBox2.Controls.Add(this.sigortavar);
-            this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.groupBox2.Location = new System.Drawing.Point(160, 424);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(2);
             this.groupBox2.Size = new System.Drawing.Size(150, 48);
             this.groupBox2.TabIndex = 38;
             this.groupBox2.TabStop = false;
@@ -95,9 +95,9 @@
             // 
             this.sigortayok.AutoSize = true;
             this.sigortayok.Location = new System.Drawing.Point(84, 19);
-            this.sigortayok.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.sigortayok.Margin = new System.Windows.Forms.Padding(2);
             this.sigortayok.Name = "sigortayok";
-            this.sigortayok.Size = new System.Drawing.Size(44, 17);
+            this.sigortayok.Size = new System.Drawing.Size(47, 17);
             this.sigortayok.TabIndex = 4;
             this.sigortayok.TabStop = true;
             this.sigortayok.Text = "Yok";
@@ -107,9 +107,9 @@
             // 
             this.sigortavar.AutoSize = true;
             this.sigortavar.Location = new System.Drawing.Point(8, 17);
-            this.sigortavar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.sigortavar.Margin = new System.Windows.Forms.Padding(2);
             this.sigortavar.Name = "sigortavar";
-            this.sigortavar.Size = new System.Drawing.Size(41, 17);
+            this.sigortavar.Size = new System.Drawing.Size(44, 17);
             this.sigortavar.TabIndex = 3;
             this.sigortavar.TabStop = true;
             this.sigortavar.Text = "Var";
@@ -117,27 +117,27 @@
             // 
             // vites
             // 
-            this.vites.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.vites.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.vites.FormattingEnabled = true;
             this.vites.Items.AddRange(new object[] {
             "OTOMATIK",
             "MANUEL"});
             this.vites.Location = new System.Drawing.Point(160, 345);
-            this.vites.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.vites.Margin = new System.Windows.Forms.Padding(2);
             this.vites.Name = "vites";
             this.vites.Size = new System.Drawing.Size(159, 21);
             this.vites.TabIndex = 37;
             // 
             // yakit
             // 
-            this.yakit.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.yakit.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.yakit.FormattingEnabled = true;
             this.yakit.Items.AddRange(new object[] {
             "LPG",
             "MAZOT",
             "BENZIN"});
             this.yakit.Location = new System.Drawing.Point(160, 305);
-            this.yakit.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.yakit.Margin = new System.Windows.Forms.Padding(2);
             this.yakit.Name = "yakit";
             this.yakit.Size = new System.Drawing.Size(159, 21);
             this.yakit.TabIndex = 36;
@@ -146,11 +146,11 @@
             // 
             this.groupBox1.Controls.Add(this.klimayok);
             this.groupBox1.Controls.Add(this.klimavar);
-            this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.groupBox1.Location = new System.Drawing.Point(160, 242);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(2);
             this.groupBox1.Size = new System.Drawing.Size(150, 46);
             this.groupBox1.TabIndex = 35;
             this.groupBox1.TabStop = false;
@@ -159,9 +159,9 @@
             // 
             this.klimayok.AutoSize = true;
             this.klimayok.Location = new System.Drawing.Point(88, 17);
-            this.klimayok.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.klimayok.Margin = new System.Windows.Forms.Padding(2);
             this.klimayok.Name = "klimayok";
-            this.klimayok.Size = new System.Drawing.Size(44, 17);
+            this.klimayok.Size = new System.Drawing.Size(47, 17);
             this.klimayok.TabIndex = 4;
             this.klimayok.TabStop = true;
             this.klimayok.Text = "Yok";
@@ -171,9 +171,9 @@
             // 
             this.klimavar.AutoSize = true;
             this.klimavar.Location = new System.Drawing.Point(8, 17);
-            this.klimavar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.klimavar.Margin = new System.Windows.Forms.Padding(2);
             this.klimavar.Name = "klimavar";
-            this.klimavar.Size = new System.Drawing.Size(41, 17);
+            this.klimavar.Size = new System.Drawing.Size(44, 17);
             this.klimavar.TabIndex = 3;
             this.klimavar.TabStop = true;
             this.klimavar.Text = "Var";
@@ -181,7 +181,7 @@
             // 
             // renk
             // 
-            this.renk.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.renk.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.renk.Location = new System.Drawing.Point(160, 214);
             this.renk.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.renk.MaxLength = 20;
@@ -191,7 +191,7 @@
             // 
             // motorhacim
             // 
-            this.motorhacim.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.motorhacim.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.motorhacim.Location = new System.Drawing.Point(160, 180);
             this.motorhacim.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.motorhacim.Name = "motorhacim";
@@ -200,7 +200,7 @@
             // 
             // model
             // 
-            this.model.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.model.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.model.Location = new System.Drawing.Point(160, 80);
             this.model.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.model.MaxLength = 15;
@@ -210,7 +210,7 @@
             // 
             // motorguc
             // 
-            this.motorguc.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.motorguc.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.motorguc.Location = new System.Drawing.Point(160, 147);
             this.motorguc.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.motorguc.Name = "motorguc";
@@ -219,7 +219,7 @@
             // 
             // marka
             // 
-            this.marka.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.marka.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.marka.Location = new System.Drawing.Point(160, 42);
             this.marka.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.marka.MaxLength = 15;
@@ -229,7 +229,7 @@
             // 
             // ucret
             // 
-            this.ucret.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.ucret.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.ucret.Location = new System.Drawing.Point(160, 524);
             this.ucret.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.ucret.Name = "ucret";
@@ -238,7 +238,7 @@
             // 
             // tork
             // 
-            this.tork.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.tork.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.tork.Location = new System.Drawing.Point(160, 486);
             this.tork.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tork.Name = "tork";
@@ -247,7 +247,7 @@
             // 
             // ruhsat
             // 
-            this.ruhsat.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.ruhsat.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.ruhsat.Location = new System.Drawing.Point(160, 112);
             this.ruhsat.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.ruhsat.Name = "ruhsat";
@@ -256,7 +256,7 @@
             // 
             // plaka
             // 
-            this.plaka.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.plaka.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.plaka.Location = new System.Drawing.Point(160, 7);
             this.plaka.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.plaka.MaxLength = 9;
@@ -267,140 +267,140 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label7.Location = new System.Drawing.Point(102, 7);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(34, 13);
+            this.label7.Size = new System.Drawing.Size(39, 13);
             this.label7.TabIndex = 24;
             this.label7.Text = "Plaka";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label6.Location = new System.Drawing.Point(71, 348);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(55, 13);
+            this.label6.Size = new System.Drawing.Size(65, 13);
             this.label6.TabIndex = 23;
             this.label6.Text = "Vites Türü";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label4.Location = new System.Drawing.Point(72, 305);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(56, 13);
+            this.label4.Size = new System.Drawing.Size(66, 13);
             this.label4.TabIndex = 22;
             this.label4.Text = "Yakıt Türü";
             // 
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label12.Location = new System.Drawing.Point(42, 443);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(77, 13);
+            this.label12.Size = new System.Drawing.Size(93, 13);
             this.label12.TabIndex = 21;
             this.label12.Text = "Trafik Sigortası";
             // 
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label10.Location = new System.Drawing.Point(105, 214);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(33, 13);
+            this.label10.Size = new System.Drawing.Size(37, 13);
             this.label10.TabIndex = 20;
             this.label10.Text = "Renk";
             // 
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label11.Location = new System.Drawing.Point(71, 112);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(58, 13);
+            this.label11.Size = new System.Drawing.Size(67, 13);
             this.label11.TabIndex = 19;
             this.label11.Text = "Ruhsat No";
             // 
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label9.Location = new System.Drawing.Point(109, 486);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(29, 13);
+            this.label9.Size = new System.Drawing.Size(33, 13);
             this.label9.TabIndex = 18;
             this.label9.Text = "Tork";
             // 
             // label14
             // 
             this.label14.AutoSize = true;
-            this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label14.Location = new System.Drawing.Point(105, 526);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(33, 13);
+            this.label14.Size = new System.Drawing.Size(38, 13);
             this.label14.TabIndex = 17;
             this.label14.Text = "Ücret";
             // 
             // label13
             // 
             this.label13.AutoSize = true;
-            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label13.Location = new System.Drawing.Point(10, 390);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(100, 13);
+            this.label13.Size = new System.Drawing.Size(119, 13);
             this.label13.TabIndex = 16;
             this.label13.Text = "Muayene Bitiş Tarih";
             // 
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label8.Location = new System.Drawing.Point(57, 180);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(67, 13);
+            this.label8.Size = new System.Drawing.Size(78, 13);
             this.label8.TabIndex = 15;
             this.label8.Text = "Motor Hacmi";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label3.Location = new System.Drawing.Point(63, 147);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(63, 13);
+            this.label3.Size = new System.Drawing.Size(73, 13);
             this.label3.TabIndex = 14;
             this.label3.Text = "Motor Gücü";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label5.Location = new System.Drawing.Point(98, 46);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(37, 13);
+            this.label5.Size = new System.Drawing.Size(42, 13);
             this.label5.TabIndex = 13;
             this.label5.Text = "Marka";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label2.Location = new System.Drawing.Point(98, 80);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(36, 13);
+            this.label2.Size = new System.Drawing.Size(41, 13);
             this.label2.TabIndex = 25;
             this.label2.Text = "Model";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label1.Location = new System.Drawing.Point(103, 261);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(32, 13);
+            this.label1.Size = new System.Drawing.Size(37, 13);
             this.label1.TabIndex = 12;
             this.label1.Text = "Klima";
             // 
@@ -416,7 +416,7 @@
             // muayene
             // 
             this.muayene.Location = new System.Drawing.Point(160, 390);
-            this.muayene.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.muayene.Margin = new System.Windows.Forms.Padding(2);
             this.muayene.Name = "muayene";
             this.muayene.Size = new System.Drawing.Size(151, 20);
             this.muayene.TabIndex = 42;
@@ -425,6 +425,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.ClientSize = new System.Drawing.Size(404, 602);
             this.Controls.Add(this.muayene);
             this.Controls.Add(this.label15);
@@ -456,7 +457,7 @@
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "AracGuncelle";
             this.Text = "Araç Güncelle";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.AracGuncelle_FormClosed);

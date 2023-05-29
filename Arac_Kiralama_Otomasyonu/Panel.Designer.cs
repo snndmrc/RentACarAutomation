@@ -79,6 +79,8 @@
             this.ımageList1.Images.SetKeyName(8, "yedkleme.jpg");
             this.ımageList1.Images.SetKeyName(9, "log-out-gb3c691dd2_1280.png");
             this.ımageList1.Images.SetKeyName(10, "remote-2785506.png");
+            this.ımageList1.Images.SetKeyName(11, "pngwing.com (2).png");
+            this.ımageList1.Images.SetKeyName(12, "pngwing.com (3).png");
             // 
             // button2
             // 
@@ -162,7 +164,7 @@
             this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.button6.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button6.ImageKey = "log-out-gb3c691dd2_1280.png";
+            this.button6.ImageKey = "pngwing.com (3).png";
             this.button6.ImageList = this.ımageList1;
             this.button6.Location = new System.Drawing.Point(619, 238);
             this.button6.Margin = new System.Windows.Forms.Padding(2);
@@ -266,7 +268,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.ClientSize = new System.Drawing.Size(776, 453);
+            this.ClientSize = new System.Drawing.Size(776, 454);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button10);
             this.Controls.Add(this.button9);

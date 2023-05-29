@@ -71,7 +71,7 @@ namespace Arac_Kiralama_Otomasyonu
             SqlCommand kom = new SqlCommand(ucret,baglanti);
             SqlDataReader dr2 = kom.ExecuteReader();dr2.Read();
             string ucretmiktar = dr2["urcet"].ToString();
-            MessageBox.Show("Toplam ucret"+ucretmiktar);
+            MessageBox.Show("Toplam Kiralama Ücreti: \n"+ucretmiktar);
             dr.Close();
             baglanti.Close();
         }

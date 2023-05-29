@@ -40,7 +40,7 @@ namespace Arac_Kiralama_Otomasyonu
             baglanti.Open();
             string kaydet = "insert into tblKullanici values("+label6.Text+",'"+textBox5.Text+"','"+textBox4.Text+"','"+comboBox1.Text+"')";
             SqlCommand komut = new SqlCommand(kaydet,baglanti);
-            MessageBox.Show("Yetkilendirilme Başarılı", "Başarılı", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Yetkilendirme Başarıyla Tamamlandı.", "Başarılı", MessageBoxButtons.OK, MessageBoxIcon.Information);
             komut.ExecuteNonQuery();
             baglanti.Close();
         }

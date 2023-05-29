@@ -45,7 +45,7 @@ namespace Arac_Kiralama_Otomasyonu
                 pnl.Show();
                 this.Hide();
             }
-            else if (yetkiNesne.yetkiCek(tbK_adi.Text, tbParola.Text).Equals("OKUYUCU"))
+            else if (yetkiNesne.yetkiCek(tbK_adi.Text, tbParola.Text).Equals("DANISMAN"))
             {
                 pnl.button5.Enabled = false;
                 pnl.button3.Enabled = false;
@@ -53,14 +53,14 @@ namespace Arac_Kiralama_Otomasyonu
                 pnl.Show();
                 this.Hide();
             }
-            else if (yetkiNesne.yetkiCek(tbK_adi.Text, tbParola.Text).Equals("YAZICI"))
+            else if (yetkiNesne.yetkiCek(tbK_adi.Text, tbParola.Text).Equals("MUDUR"))
             { 
                     pnl.button5.Enabled = false;
                 pnl.Show();
                 this.Hide();
             }
             else
-                MessageBox.Show("Kullanıcı adı veya şifreyi yanlış girdiniz!","Başarısız",MessageBoxButtons.OK,MessageBoxIcon.Error);
+                MessageBox.Show("Kullanıcı adı veya şifreyi yanlış girdiniz!","Giriş Başarısız",MessageBoxButtons.OK,MessageBoxIcon.Error);
 
 
 /*            SqlCommand com = new SqlCommand("Select * from tblKullanici where kullaniciadi = '"+tbK_adi.Text+"' and sifre = '"+tbParola.Text+"", con);

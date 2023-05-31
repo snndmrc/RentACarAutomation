@@ -37,7 +37,7 @@ namespace Arac_Kiralama_Otomasyonu
 
         { 
              araclar a = new araclar();
-            if (ytk.yetkiAnahtar.ToString() == "OKUYUCU")
+            if (ytk.yetkiAnahtar.ToString() == "DANISMAN")
             {
                 a.button1.Enabled = false;
                 a.importY.Enabled = false;
@@ -48,11 +48,11 @@ namespace Arac_Kiralama_Otomasyonu
         private void button2_Click(object sender, EventArgs e)
         {
             Calisanlar c = new Calisanlar();
-            if (ytk.yetkiAnahtar.ToString() == "OKUYUCU")
+            if (ytk.yetkiAnahtar.ToString() == "DANISMAN")
             {
                 c.button1.Enabled = false;
             }
-            else if(ytk.yetkiAnahtar.ToString() == "YAZICI")
+            else if(ytk.yetkiAnahtar.ToString() == "MUDUR")
             {
                 c.button1.Enabled = false;
             }            
